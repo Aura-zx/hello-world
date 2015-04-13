@@ -1,2 +1,2 @@
 # hello-world
-github guide
+It's readme edition.
